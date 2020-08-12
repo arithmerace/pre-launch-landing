@@ -1,2 +1,3 @@
 http://arithmerace-landing-page.netlify.com/* http://arithmerace.com/:splat 301!
 https://arithmerace-landing-page.netlify.com/* https://arithmerace.com/:splat 301!
+https://arithmerace.com/* https://arithmerace.com/ 302
